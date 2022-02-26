@@ -1,0 +1,4 @@
+map_name: Oil_Wars
+games:
+- {game_name: Oil Wars, file_name: Oil Wars.xml}
+version: 0
